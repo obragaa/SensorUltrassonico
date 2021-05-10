@@ -1,4 +1,4 @@
-//Programa: Conectando Sensor Ultrassonico HC-SR04 ao Arduino
+//Programa: Conectando Sensor Ultrassonico HC-SR04 ao Arduino Uno
  
 //Carrega a biblioteca do sensor ultrassonico
 #include <Ultrasonic.h>
@@ -27,7 +27,7 @@ void setup()
  
 void loop()
 {
-  //Le as informacoes do sensor, em cm e pol
+  //Le as informacoes do sensor, em cm
   float cmMsec, inMsec;
   long microsec = ultrasonic.timing();
   cmMsec = ultrasonic.convert(microsec, Ultrasonic::CM);
