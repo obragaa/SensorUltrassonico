@@ -4,7 +4,7 @@
  Este programa tem como funcionalidade acender até 3 leds conforme a aproximação do sensor.
 
 
-# Dependencia
+# Dependências
 
 Link para a instalação da biblioteca usada no código:
 - https://github.com/filipeflop/Ultrasonic
