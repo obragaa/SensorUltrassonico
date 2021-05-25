@@ -16,3 +16,8 @@ Link para a instalação da biblioteca usada no código:
 
 Link para o site de referência usado neste projeto:
 - https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/
+
+
+# Conexões:
+
+![Exemplo de conexão](./img/example.PNG)
