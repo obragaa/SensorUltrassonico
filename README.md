@@ -11,3 +11,6 @@
 
 Link para a instalação da biblioteca usada no código:
 - https://github.com/filipeflop/Ultrasonic
+
+Link para o site de referência usado neste projeto:
+- https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/
